@@ -66,10 +66,10 @@ Am implementat aplicația folosind următoarele concepte:
    - În `Main.java`, am creat obiecte pentru utilizatori, restaurante, meniuri, comenzi și am efectuat acțiuni pentru a testa logica aplicației.
 
 ### 3) Persistență cu JDBC
-Pentru Etapa II (pe care o vei implementa ulterior), va trebui să adaugi persistenta datelor în baza de date folosind JDBC, dar această etapă este destinată să fie realizată la un punct ulterior.
+In lucru.
 
 ### 4) Serviciu de audit
-De asemenea, va trebui să implementezi un serviciu de audit în Etapa II care să înregistreze acțiunile efectuate într-un fișier CSV.
+In lucru.
 
 ## Instrucțiuni de rulare
 
